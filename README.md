@@ -1,58 +1,58 @@
-🚀 Daily DSA Codes
+# One day one code 🧑‍💻
 
-Hey Fellow Coders and Newbies 👋
+### Hey Fellow Coders and Newbies 👋
 
-This repository is basically my daily DSA practice dump where I upload one DSA problem/code every day along with explanation and approaches.
+This repo is basically my daily DSA practice dump where I upload one DSA problem/code every day along with explanation and approaches.
 
-If you're preparing for:
-
-- coding interviews
-- placements
-- online coding rounds
-- or just trying to get better at problem solving
+### If you're preparing for:
+```
+🎯 coding interviews 
+🎯 placements
+🎯 online coding rounds
+🎯 or just trying to get better at problem solving
+```
 
 then this repo might help you 😄
 
-📚 What's inside?
+### 📚 What's inside?
 
 You'll find DSA problems from topics like:
 
-- Searching
-- Sorting
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Greedy Algorithms
-- Dynamic Programming
-- Recursion
+1. Searching
+1. Sorting
+1. Arrays
+1. Strings
+1. Linked Lists
+1. Stacks & Queues
+1. Trees
+1. Graphs
+1. Greedy Algorithms
+1. Dynamic Programming
+1. Recursion
 and many more...
 
 Starting from basic problems and slowly moving towards harder ones 🚀
 
-✨ What you'll get in each problem
+### ✨ What you'll get in each problem
 
 For every problem, I'll try to include:
 
-🔹 Understanding the problem
-
+#### 🔹 Understanding the problem
 Breaking down what the question is actually asking.
 
-🔹 Brute force approach
+#### 🔹 Brute force approach
 
 The basic/simple solution first because understanding matters more than memorizing optimal solutions.
 
-🔹 Optimization
+#### 🔹 Optimization
 
 How we can improve the brute force solution step by step.
 
-🔹 Time & Space Complexity
+#### 🔹 Time & Space Complexity
 
 Because writing code is one thing, writing efficient code is another 😄
 
-🎯 Why this repo?
+### 🎯 Why this repo?
 
 Honestly, this repo is mainly for consistency.
 Doing DSA daily > doing 100 problems randomly once in a while.
@@ -63,9 +63,13 @@ why not upload everything in one place so others can learn too?
 
 🛠️ Language
 
-Mostly C++ for now.
+Mostly 
+```
+C++
+``` 
+for now.
 
-📅 Goal
+### 📅 Goal
 
 ✅ Upload one DSA code daily
 ✅ Explain approaches clearly
